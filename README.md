@@ -21,9 +21,11 @@ Built with:
 ---
 
 ## 📸 Screenshot
-https://github.com/Ritu375/Hospital-landing-Page/blob/44295a8286c6c9a0ad95e9f951944b299932a217/home.PNG
-https://github.com/Ritu375/Hospital-landing-Page/blob/f5d146b747081e68d66d6ee88f5955c234f68ab4/service.PNG
-https://github.com/Ritu375/Hospital-landing-Page/blob/d07515cca35af2155620875beeaff8a16f89f204/clinic.PNG
-https://github.com/Ritu375/Hospital-landing-Page/blob/878babe23c8a54bad086969070327f7e44696c2b/specialist.PNG
-https://github.com/Ritu375/Hospital-landing-Page/blob/8e3222b145179a8b0b1d514821f733ad531bae77/restapi.PNG
-https://github.com/Ritu375/Hospital-landing-Page/blob/3001c50ca73088dfa805e6469feb03e44b28d217/footer.PNG
+## 📸 Screenshot
+
+![Home](https://github.com/Ritu375/Hospital-landing-Page/blob/44295a8286c6c9a0ad95e9f951944b299932a217/home.PNG?raw=true)
+![Service](https://github.com/Ritu375/Hospital-landing-Page/blob/f5d14db747081e68d6d6dee88f595c23f46cab4/service.PNG?raw=true)
+![Clinic](https://github.com/Ritu375/Hospital-landing-Page/blob/d07515cca35af2155620875beeaff8a16f89f204/clinic.PNG?raw=true)
+![Specialist](https://github.com/Ritu375/Hospital-landing-Page/blob/878babe23c8a54bad0869690703277fe44696c2b/specialist.PNG?raw=true)
+![Rest API](https://github.com/Ritu375/Hospital-landing-Page/blob/8e3222b145179a8b0b1d514821f733ad531bae77/restapi.PNG?raw=true)
+![Footer](https://github.com/Ritu375/Hospital-landing-Page/blob/3001c50ca73088dfa805e6469feb03e44b28d217/footer.PNG?raw=true)
