@@ -1,0 +1,325 @@
+.hero-section {
+  background: #F8FDFF;
+  width: 100%;
+}
+
+.hero-title {
+  font-size: 2.5rem;  
+  font-weight: 700;
+  color: #003B79;
+  
+}
+
+.hero-image {
+  background-color: #EBEEFF;
+  border-radius: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  width: 100%;
+  padding-top: 100%; 
+  position: relative;
+}
+
+
+
+ .service-card {
+  background-color: white;
+  color: black;
+  border: none;
+  border-radius: 2rem;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  width: 100%;
+  height: 100%;
+}
+
+.service-icon {
+  width: 4rem;
+  height: 4rem;
+  transition: filter 0.3s ease;
+  filter: brightness(0) saturate(100%) invert(41%) sepia(100%) saturate(750%) hue-rotate(187deg) brightness(95%) contrast(90%);
+}
+
+
+.service-card:hover .service-icon {
+  filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(0%) hue-rotate(93deg) brightness(102%) contrast(102%);
+  transform: scale(1.1);
+}
+
+.service-card:hover {
+  background-color: #007EF3;
+  color: white;
+}
+
+.learn-more-btn {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.service-card:hover .learn-more-btn {
+  opacity: 1;
+}
+
+.reviews-section {
+  background: #f9fbfc;
+}
+
+.reviews-title {
+  color: #003B79;
+  font-weight: 600;
+  font-size: 2rem;
+  text-align: left;
+  margin-left: 10rem; 
+}
+
+.review-card {
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  height: 100%;
+  width: 100%;
+  max-width: 500px;   
+  margin: 0 auto; 
+}
+
+.quote-circle {
+  top: -0.94rem;
+  right: -0.94rem;
+  width: 2.5rem;
+  height:2.5rem;
+  background: #007bff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quote-icon {
+  color: white;
+  font-size: 1.5rem;
+}
+
+.review-text {
+  color: #002348;
+  font-size: 0.95rem;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.review-author {
+  gap: 2rem;
+}
+
+.author-avatar {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+}
+
+.author-name {
+  font-weight: 600;
+  color: #002348;
+  font-size: 1rem;
+}
+
+.author-role {
+  color: #002348;
+  font-size: 0.85rem;
+}
+
+
+@media (max-width: 768px) {
+  .reviews-title {
+    font-size: 1.5rem;
+    margin-left: 0.5rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .review-text {
+    font-size: 0.9rem;
+  }
+  .review-author {
+    gap: 1rem;
+  }
+}
+
+
+
+
+.footer-bottom {
+  background: #ECF4FF;
+  color: #002348;
+  font-size: 1em;
+}
+
+.logo-blue {
+  color: #007bff;
+  font-size: 1em;
+}
+
+.logo-orange {
+  color: #ff6c00;
+   font-size: 1em;
+}
+
+.footer-links {
+  display: flex;
+  gap: 1em;
+}
+
+.footer-links a {
+  color:#0073FF;
+  text-decoration: none;
+  font-size: 1em;
+  
+}
+
+.icon-circle {
+  background: white;
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+  font-size: 1em;
+  gap:2em;
+}
+
+.clinic-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1.88rem 1.25rem;;
+  flex-wrap: wrap;
+}
+
+.clinic-left {
+  flex: 1 1 300px;
+  min-width: 280px;
+  margin-bottom: 2rem;
+}
+
+.clinic-left h1 {
+  font-size: 2.5rem;
+  color: #002348;
+ 
+  
+}
+
+.clinic-left p {
+  font-size: 14px;
+  color: #002348;
+  max-width: 400px;
+}
+
+.clinic-btn {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 24px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+.clinic-right {
+  flex: 1 1 300px;
+  position: relative;
+  min-width: 300px;
+  height: 20rem;
+}
+
+.clinic-card {
+  position: absolute;
+  background: white;
+  width: 40%;
+  height: 40%;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.clinic-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  top: -50%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.clinic-card p {
+  font-size: 1rem;
+  color: #002348;
+  margin-top: 4.38rem;
+}
+
+.card-doctor {
+  top: 0;
+  left: 50%;
+  transform: translateX(-90%);
+  
+}
+
+.card-ambulance {
+  top: 15.63rem;
+  left: 50%;
+  transform: translateX(-90%);
+}
+
+.card-nurse {
+  top: 6.25rem;
+  right: 0;
+}
+
+@media (max-width: 768px) {
+  .clinic-right {
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    position: static;
+  }
+
+  .clinic-card {
+    position: static;
+    margin: 1rem;
+  }
+
+  .clinic-card img {
+    position: static;
+    margin-top: -1.25rem;
+  }
+
+  .clinic-card p {
+    margin-top: 0.625rem;
+  }
+}
+
+
+.decorationNone {
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.decorationNone:focus,
+.decorationNone:active,
+.decorationNone:hover {
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+
+
