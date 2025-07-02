@@ -23,3 +23,4 @@ Built with:
 ## 📸 Screenshot
 https://github.com/Ritu375/Hospital-landing-Page/blob/44295a8286c6c9a0ad95e9f951944b299932a217/home.PNG
 https://github.com/Ritu375/Hospital-landing-Page/blob/f5d146b747081e68d66d6ee88f5955c234f68ab4/service.PNG
+https://github.com/Ritu375/Hospital-landing-Page/blob/d07515cca35af2155620875beeaff8a16f89f204/clinic.PNG
