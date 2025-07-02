@@ -21,7 +21,7 @@ Built with:
 ---
 
 ## 📸 Screenshot
-## 📸 Screenshot
+
 
 ![Home](https://github.com/Ritu375/Hospital-landing-Page/blob/44295a8286c6c9a0ad95e9f951944b299932a217/home.PNG?raw=true)
 ![Service](https://github.com/Ritu375/Hospital-landing-Page/blob/f5d14db747081e68d6d6dee88f595c23f46cab4/service.PNG?raw=true)
