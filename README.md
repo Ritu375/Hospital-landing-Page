@@ -26,3 +26,4 @@ https://github.com/Ritu375/Hospital-landing-Page/blob/f5d146b747081e68d66d6ee88f
 https://github.com/Ritu375/Hospital-landing-Page/blob/d07515cca35af2155620875beeaff8a16f89f204/clinic.PNG
 https://github.com/Ritu375/Hospital-landing-Page/blob/878babe23c8a54bad086969070327f7e44696c2b/specialist.PNG
 https://github.com/Ritu375/Hospital-landing-Page/blob/8e3222b145179a8b0b1d514821f733ad531bae77/restapi.PNG
+https://github.com/Ritu375/Hospital-landing-Page/blob/3001c50ca73088dfa805e6469feb03e44b28d217/footer.PNG
